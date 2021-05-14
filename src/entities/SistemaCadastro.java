@@ -212,7 +212,7 @@ public class SistemaCadastro extends javax.swing.JFrame {
         jTextField1.setText("");
         jTextField2.setText("");
         jTextField3.setText("");
-        jTextField4.setText("");
+        jTextField4.setText("");        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**

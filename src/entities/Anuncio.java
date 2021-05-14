@@ -107,5 +107,5 @@ public class Anuncio {
      */
     public void setInvestimentoDia(double investimentoDia) {
         this.investimentoDia = investimentoDia;
-    }
+    }    
 }

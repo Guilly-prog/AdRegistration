@@ -22,5 +22,5 @@ public class Dados {
      */
     public String numeroDeAnuncios() {
         return Integer.toString(anuncios.size());
-    }
+    }    
 }

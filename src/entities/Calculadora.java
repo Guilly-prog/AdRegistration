@@ -93,5 +93,5 @@ public class Calculadora {
             shared += partialShare;
         }
         return onOriginalShare + shared;
-    }
+    }    
 }
