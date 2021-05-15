@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Dados {
 
     ArrayList<Anuncio> anuncios = new ArrayList();
-
+    
     /*
      * Método para cadastrar um anúncio 
      */

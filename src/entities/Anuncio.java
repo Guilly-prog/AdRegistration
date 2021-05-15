@@ -14,8 +14,8 @@ public class Anuncio {
     String cliente;
     String dataInicio;
     String dataTermino;
-    double investimentoDia;
-
+    double investimentoDia;    
+    
     public static long quantoTempo(String dataInicio, String dataTermino) throws ParseException {
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date dataInicioD = dateFormat.parse(dataInicio);
